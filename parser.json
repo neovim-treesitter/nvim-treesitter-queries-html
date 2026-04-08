@@ -1,6 +1,14 @@
 {
-  "lang": "html",
-  "url": "https://github.com/tree-sitter/tree-sitter-html",
   "semver": false,
-  "parser_version": "73a3947324f6efddf9e17c0ea58d454843590cc0"
+  "parser_version": "73a3947324f6efddf9e17c0ea58d454843590cc0",
+  "lang": "html",
+  "inject_deps": [
+    "css",
+    "graphql",
+    "javascript",
+    "json",
+    "markdown",
+    "typescript"
+  ],
+  "url": "https://github.com/tree-sitter/tree-sitter-html"
 }
